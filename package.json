@@ -1,0 +1,21 @@
+{
+  "name": "opencode-mcp-gate",
+  "version": "1.1.0",
+  "description": "opencode plugin that asks which MCP servers to enable at the start of each session",
+  "bin": {
+    "opencode-mcp-gate": "bin/cli.js"
+  },
+  "files": [
+    "bin",
+    "plugin",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dk4products/opencode-mcp-gate.git"
+  }
+}
